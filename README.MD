@@ -154,11 +154,11 @@ Understanding how Terraform is operated within engineering teams rather than ind
 ```text
 terraform/
 │
-├── Day1/
-├── Day2/
-├── Day3/
-├── Enterprise Terraform/
-├── Production Architecture/
+├── 01-basic-ec2/
+├── 02-network-layer/
+├── 03-load-balanced-architecture/
+├── 04-enterprise-terraform/
+├── 05-production-architecture/
 │
 ├── README.md
 └── .gitignore
