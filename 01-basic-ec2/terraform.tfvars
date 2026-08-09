@@ -1,0 +1,7 @@
+aws_region    = "ap-south-2"
+instance_type = "t3.small"
+instance_name = "my-ec2-instance"
+environment   = "dev"
+owner         = "sathish"
+key_name      = "payment-key"
+project_name  = "my-project"
